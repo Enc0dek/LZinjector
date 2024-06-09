@@ -1,6 +1,9 @@
-# Tauri + SvelteKit
+**Usage**
+Select a dll and press inject
 
-This template should help get you started developing with Tauri and SvelteKit in Vite.
+**Important**
+  -*Config Manager* not working
+  -*Auto inject* not working
 
 ## Recommended IDE Setup
 
